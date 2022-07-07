@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557394192 source:e:\facultate\1.2\metode numerice\lab11\eulerpbcauchyecdif\main.c
+	<stdio.h>
+	<stdlib.h>
+

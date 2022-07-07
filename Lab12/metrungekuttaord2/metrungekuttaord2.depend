@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557996418 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assignment_2\metrungekuttaord2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

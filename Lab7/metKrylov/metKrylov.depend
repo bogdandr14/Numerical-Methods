@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554368753 source:e:\facultate\1.2\metode numerice\lab7\metkrylov\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

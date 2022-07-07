@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552553859 source:e:\cursuri\1.2\metode numerice\lab\lab4\factorlrtridiag\main.c
+	<stdio.h>
+	<stdlib.h>
+

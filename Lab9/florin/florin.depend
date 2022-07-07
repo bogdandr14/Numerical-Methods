@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555961548 source:e:\facultate\1.2\metode numerice\lab9\florin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"problem_1.h"
+
+1555961015 e:\facultate\1.2\metode numerice\lab9\florin\problem_1.h
+
+1555961124 source:e:\facultate\1.2\metode numerice\lab9\florin\problem_1.c
+	<stdio.h>
+	<stdlib.h>
+

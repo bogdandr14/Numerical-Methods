@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557393430 source:e:\facultate\1.2\metode numerice\lab11\evalintdubtr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

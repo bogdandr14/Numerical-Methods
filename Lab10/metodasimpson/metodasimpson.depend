@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556183495 source:e:\facultate\1.2\metode numerice\lab10\metodasimpson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

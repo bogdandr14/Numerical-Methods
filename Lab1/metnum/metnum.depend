@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551113481 source:d:\cursuri\1.2\metode numerice\lab\lab1\metnum\main.c
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551642940 source:e:\cursuri\1.2\metode numerice\lab\lab2\pivotare partiala\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

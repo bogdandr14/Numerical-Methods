@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556182822 source:e:\facultate\1.2\metode numerice\lab10\metodatrapezului\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
